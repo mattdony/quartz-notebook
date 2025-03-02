@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Mattdony's Notebook
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## 🌱 사이트 소개
+- Mattdony의 종합 노트북입니다.
+- 흥미 있는 주제, 공부한 내용, 갑자기 생가나는 아이디어 등을 기록합니다.
+- 정리한 기록을 다른 사람에게도 공유(뽐내기?)위해 정리합니다.
+- 연락처 📨 dev.mattdony@지메일
